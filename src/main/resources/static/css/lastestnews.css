@@ -1,0 +1,22 @@
+.row{
+    margin-top: 15px
+}
+
+.lastest-news .main-alink{
+	 font-family: 'Open Sans', sans-serif;
+	 color: #000;
+}
+
+.news-date{
+    float: right;
+    text-align: right;
+    font-style: italic;
+}
+
+hr{
+    width: 90%;
+}
+.list-news{
+    text-align: justify;
+    margin-right: 25px;
+}
